@@ -1,0 +1,9 @@
+npm = "11.4.2"
+angular-cli = "20.0.2"
+
+# https://nodejs.org/
+# node -v
+# npm -v
+
+# npm install -g @angular/cli
+# ng version
